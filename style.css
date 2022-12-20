@@ -65,14 +65,14 @@ section {
 }
 
 .slide1 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../adept1.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(adept1.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
 
 .slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../adept2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(adept2.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -300,6 +300,7 @@ text-align: center;}
     text-transform: uppercase;
     color: var(--brand);
     text-decoration: underline;
+    margin-top: 10px;
 }
 
 footer {

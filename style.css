@@ -76,6 +76,7 @@ section {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+    margin-left: 10px;
 }
 
 .slide .display-3 {

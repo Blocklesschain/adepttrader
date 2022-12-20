@@ -71,19 +71,6 @@ section {
     background-repeat: no-repeat;
 }
 
-.slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(adept2.jpg);
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
-    margin-left: 10px;
-}
-
-.slide .display-3 {
-    text-transform: uppercase;
-    color: #fff;
-}
-
 /* navbar */
 .top-nav {
     background-color: var(--brand);

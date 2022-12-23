@@ -266,7 +266,7 @@ footer .footer-top {
 }
 
 .social-icons {
-  color: white;
+  color: white !important;
 }
 
 .footer-bottom {
@@ -298,7 +298,7 @@ footer .social-icons a {
 .fa-facebook, 
 .fa-twitter,
 .fa-instagram {
-  color: white !important;
+  color: #ffffff !important;
 } 
 
 .fa-facebook:hover, 

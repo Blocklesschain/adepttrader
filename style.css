@@ -295,14 +295,14 @@ footer .social-icons a {
   margin-right: 4px;
 }
 
-.bxl-facebook, 
-.bxl-twitter,
-.bxl-instagram {
+.fa-facebook, 
+.fa-twitter,
+.fa-instagram {
   color: white !important;
 } 
 
-.bxl-facebook:hover, 
-.bxl-twitter:hover,
-.bxl-instagram:hover {
+.fa-facebook:hover, 
+.fa-twitter:hover,
+.fa-instagram:hover {
   color: #f63812 !important
 } 

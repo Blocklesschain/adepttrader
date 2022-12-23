@@ -103,15 +103,15 @@ color: #f63812;
 }
 
 .slide1 {
-  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../img/adepthead.jpg);
+  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(adepthead.jpg);
 }
 
 .slide2 {
-  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../img/adept3.jpg);
+  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(adept3.jpg);
 }
 
 .slide3 {
-  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(../img/blocklesschain.jpg);
+  background: linear-gradient(rgba(9, 32, 50, 0.4), rgba(9, 32, 50, 0.4)), url(blocklesschain.jpg);
 }
 
 .owl-prev,
